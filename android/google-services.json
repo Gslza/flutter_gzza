@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745595086417",
+    "firebase_url": "https://gzaaa-4cd71-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gzaaa-4cd71",
+    "storage_bucket": "gzaaa-4cd71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745595086417:android:50b34ed33b02febe5c3a70",
+        "android_client_info": {
+          "package_name": "com.gzza.flutter_gzza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745595086417-3l71csdjgdoa1d24rsq6f59pmnpsdojs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB0p3GRlmRfQs_hlIkE7c74OkiwvvC0m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745595086417-3l71csdjgdoa1d24rsq6f59pmnpsdojs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
